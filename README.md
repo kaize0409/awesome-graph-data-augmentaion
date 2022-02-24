@@ -35,7 +35,10 @@ The repository contains links primarily to conference and journal publications a
 |---|---|---|
 |Meta-PN|[[AAAI 2022] Meta Propagation Networks for Few-shot Semi-supervised Graph Learning](https://arxiv.org/pdf/2112.09810.pdf)|[PyTorch](https://github.com/kaize0409/Meta-PN)
 
-### GraphDA for Graph Imbalanced Learning
+
+### Underexplored Directions
+
+#### GraphDA for Graph Imbalanced Learning
 |Name|Paper|
 |---|---|
 |GraphSMOTE|[[WSDM 2021] GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3437963.3441720?casa_token=Wf5mpNwPYBYAAAAA:JAHEAtk0C48YGn8MGiDQY2xr8NTg-tJIpi6PhAgWHOBa8_OeZ_0mEBRdm5C7XGlSc4TXWtenaVKEgA) [[Code]](https://github.com/TianxiangZhao/GraphSmote)|
@@ -43,6 +46,10 @@ The repository contains links primarily to conference and journal publications a
 |GraphMixup|[[arXiv] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
 |DR-GCN|[[IJCAI 2020] Multi-class imbalanced graph convolutional network learning](https://par.nsf.gov/servlets/purl/10199469)|
 
-### GraphDA for Learning on Heterophilic Graphs
+#### GraphDA for Learning on Heterophilic Graphs
 |Name|Paper|
 |---|---|
+|WRGAT|[[KDD 2021] Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://dl.acm.org/doi/pdf/10.1145/3447548.3467373) [[Code]](https://github.com/susheels/gnns-and-local-assortativity)|
+|Geom-GCN|[[ICLR 2019] Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS) [[Code]](https://github.com/graphdml-uiuc-jlu/geom-gcn)|
+|SGATs|[[TKDE 2021] Sparse graph attention networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9399811&casa_token=7dOFWpPz370AAAAA:jq9qmU85ggjBEsl2J4KqTG4fgU1SJN2_MOSqG9EMs-EValyhoqZjJz7SIR8eh0KUq4NYjxNiCR0&tag=1) [[Code]](https://github.com/Yangyeeee/SGAT)|
+|FAGCN|[[AAAI 2021] Beyond Low-frequency Information in Graph Convolutional Networks](https://www.aaai.org/AAAI21Papers/AAAI-10091.BoD.pdf) [[Code]](http://www.shichuan.org/dataset/FAGCN_27.zip)|
