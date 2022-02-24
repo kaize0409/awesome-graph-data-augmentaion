@@ -12,7 +12,7 @@ The repository contains links primarily to conference and journal publications a
 
 ### GraphDA for Optimal Graph Learning
 
-#### Optimal Structural Learning
+#### Optimal Structure Learning
 |Name|Paper
 |---|---|
 |Gasoline|[[TheWebConf 2022] Graph Sanitation with Application to Node Classification](https://arxiv.org/pdf/2105.09384.pdf?ref=https://githubhelp.com)] [[Code]](https://github.com/pricexu/GASOLINE)|
