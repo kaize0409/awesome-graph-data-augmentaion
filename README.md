@@ -20,6 +20,7 @@ The repository contains links primarily to conference and journal publications a
 
 #### Optimal Feature Learning
 |Name|Paper|
+|---|---|
 |AirGNN|[[NeurIPS 2021] Graph Neural Networks with Adaptive Residual](https://proceedings.neurips.cc/paper/2021/file/50abc3e730e36b387ca8e02c26dc0a22-Paper.pdf) [[Code]](https://github.com/lxiaorui/AirGNN)|
 |FP|[[arXiv] On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features] |
 |GCNMF|[[FGCS 2021] Graph convolutional networks for graphs containing missing features](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|
