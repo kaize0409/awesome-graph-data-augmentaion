@@ -62,7 +62,14 @@ The repository contains links primarily to conference and journal publications a
 |PTA|[[TheWebConf 2021] On the equivalence of decoupled graph convolution network and label propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=JWbrqhSlv-oAAAAA:H2Lo2oIXotHolk4d-QBP6Sal6Rzhnrdx6DzOOI8GtlAIUf7AnOxiCzETr0YqCkRklBaErZ_8IhbQ-A) [[Code]](https://github.com/DongHande/PT_propagation_then_training)|
 |Co-GCN|[[AAAI 2020] Co-GCN for Multi-View Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5901/5757)|
 
-
+#### Graph Interpolation
+|Name|Paper|
+|---|---|
+|GraphMix|[[AAAI 2021] GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://arxiv.org/pdf/1909.11715.pdf) [[Code]](https://github.com/vikasverma1077/GraphMix)|
+|G-Mixup|[[TheWebConf 2021] Mixup for Node and Graph Classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796) [[Code]](https://github.com/vanoracai/MixupForGraph)|
+|GraphMixup|[[arXiv] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
+|ifMixup|[[arXiv] Intrusion-Free Graph Mixup](https://arxiv.org/pdf/2110.09344.pdf)|
+|Graph Transplant|[[AAAI 2022] Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://arxiv.org/pdf/2111.05639.pdf)|
 
 ### Underexplored Directions
 
