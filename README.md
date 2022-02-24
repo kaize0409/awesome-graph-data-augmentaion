@@ -1,5 +1,5 @@
 ## Graph Data Augmentation (GraphDA) for Deep Graph Learning
-The repository contains links primarily to conference and journal publications about graph data augmentation for **deep graph learning**. If you find this repository useful, please kindly cite the following paper:
+The repository contains links primarily to conference and journal publications about **graph data augmentation for deep graph learning**. If you find this repository useful, please kindly cite the following paper:
 
 ```
 @article{ding2022data,
