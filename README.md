@@ -42,7 +42,8 @@ The repository contains links primarily to conference and journal publications a
 #### Graph Self-Supervised Learning
 |Name|Paper
 |---|---|
-|GPT-GNN|[[KDD 2022] Gpt-gnn: Generative pre-training of graph neural networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237?ref=https://githubhelp.com) [[Code]](https://github.com/acbull/GPT-GNN)|
+|S^3-CL|[[KDD 2020] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
+|GPT-GNN|[[KDD 2020] Gpt-gnn: Generative pre-training of graph neural networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237?ref=https://githubhelp.com) [[Code]](https://github.com/acbull/GPT-GNN)|
 |MTL|[[ICML 2020] When does self-supervision help graph convolutional networks?](http://proceedings.mlr.press/v119/you20a/you20a.pdf)] [[Code]](https://github.com/Shen-Lab/SS-GCNs)|
 |Pre-train|[[arXiv] Pre-training graph neural networks for generic structural feature extraction](https://arxiv.org/pdf/1905.13728.pdf)|
 |GraphBert|[[arXiv] Graph-bert: Only attention is needed for learning graph representations](https://arxiv.org/pdf/2001.05140.pdf?ref=https://githubhelp.com)|
