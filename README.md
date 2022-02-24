@@ -55,7 +55,7 @@ The repository contains links primarily to conference and journal publications a
 #### Graph Self/Co-Training
 |Name|Paper|
 |---|---|
-|Meta-PN|[[AAAI 2022] Meta Propagation Networks for Few-shot Semi-supervised Graph Learning](https://arxiv.org/pdf/2112.09810.pdf) [[Code]](https://github.com/kaize0409/Meta-PN)
+|Meta-PN|[[AAAI 2022] Meta Propagation Networks for Graph Few-shot Semi-supervised Learning](https://arxiv.org/pdf/2112.09810.pdf) [[Code]](https://github.com/kaize0409/Meta-PN)
 |GST|[[AAAI 2018] Deeper insights into graph convolutional networks for semi-supervised learning](http://www4.comp.polyu.edu.hk/~csxmwu/papers/AAAI-2018-GCN.pdf) [[Code]](https://github.com/liqimai/gcn/tree/AAAI-18/)|
 |CGCN|[[AAAI 2020] Collaborative graph convolutional networks: Unsupervised learning meets semi-supervised learning](https://ojs.aaai.org/index.php/AAAI/article/download/5843/5699)|
 |M3S|[[AAAI 2020] Multi-stage self-supervised learning for graph convolutional networks on graphs with few labeled nodes](https://ojs.aaai.org/index.php/AAAI/article/download/6048/5904) [[Code]](https://github.com/datake/M3S)|
