@@ -47,7 +47,7 @@ The repository contains links primarily to conference and journal publications a
 |MTL|[[ICML 2020] When does self-supervision help graph convolutional networks?](http://proceedings.mlr.press/v119/you20a/you20a.pdf)] [[Code]](https://github.com/Shen-Lab/SS-GCNs)|
 |Pre-train|[[arXiv] Pre-training graph neural networks for generic structural feature extraction](https://arxiv.org/pdf/1905.13728.pdf)|
 |GraphBert|[[arXiv] Graph-bert: Only attention is needed for learning graph representations](https://arxiv.org/pdf/2001.05140.pdf?ref=https://githubhelp.com)|
-|Gcc|[[KDD 2020] Gcc: Graph contrastive coding for graph neural network pre-training](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168?casa_token=sv5NdkZuYWcAAAAA:9Rj_x-RZpbNLkYVqzA13ENULyAWA8tkYzbWoKFo5iXJSixCa5wv_S6p8RGyI5mAQCl_rKJRfT6xbuw) [[Code]](https://github.com/THUDM/GCC)|
+|GCC|[[KDD 2020] GCC: Graph contrastive coding for graph neural network pre-training](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168?casa_token=sv5NdkZuYWcAAAAA:9Rj_x-RZpbNLkYVqzA13ENULyAWA8tkYzbWoKFo5iXJSixCa5wv_S6p8RGyI5mAQCl_rKJRfT6xbuw) [[Code]](https://github.com/THUDM/GCC)|
 |GraphCL|[[NeurIPS 2020] Graph contrastive learning with augmentations](https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf) [[Code]](https://github.com/Shen-Lab/GraphCL)|
 |GCA|[[TheWebConf 2021] Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=5M-ljIDkVKIAAAAA:rGnCn_5bwBtngfI-JN_gsJOCO9FbaOziPyQ8_jSzL6l4u5CNZsl0f7NhAMpZCNU8c3X4Ndq_6wbvgA) [[Code]](https://github.com/CRIPAC-DIG/GCA)|
 |CSSL|[[AAAI 2021] Contrastive self-supervised learning for graph classification](https://www.aaai.org/AAAI21Papers/AAAI-7017.ZengJ.pdf)|
