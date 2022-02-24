@@ -55,6 +55,13 @@ The repository contains links primarily to conference and journal publications a
 |Name|Paper|
 |---|---|
 |Meta-PN|[[AAAI 2022] Meta Propagation Networks for Few-shot Semi-supervised Graph Learning](https://arxiv.org/pdf/2112.09810.pdf) [[Code]](https://github.com/kaize0409/Meta-PN)
+|GST|[[AAAI 2018] Deeper insights into graph convolutional networks for semi-supervised learning](http://www4.comp.polyu.edu.hk/~csxmwu/papers/AAAI-2018-GCN.pdf) [[Code]](https://github.com/liqimai/gcn/tree/AAAI-18/)|
+|CGCN|[[AAAI 2020] Collaborative graph convolutional networks: Unsupervised learning meets semi-supervised learning](https://ojs.aaai.org/index.php/AAAI/article/download/5843/5699)|
+|M3S|[[AAAI 2020] Multi-stage self-supervised learning for graph convolutional networks on graphs with few labeled nodes](https://ojs.aaai.org/index.php/AAAI/article/download/6048/5904) [[Code]](https://github.com/datake/M3S)|
+|NRGNN|[[KDD 2021] NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://dl.acm.org/doi/pdf/10.1145/3447548.3467364?casa_token=vZAPtLCtp8IAAAAA:SdDMsdTcqjEGqcM5gjKc8U4Hk7oNRfsQtv9UouHr6KsOyzp7AzVh5UkjAeYElZhmBlMZ__jJeUOC-w) [[Code]](https://github.com/EnyanDai/NRGNN)|
+|PTA|[[TheWebConf 2021] On the equivalence of decoupled graph convolution network and label propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=JWbrqhSlv-oAAAAA:H2Lo2oIXotHolk4d-QBP6Sal6Rzhnrdx6DzOOI8GtlAIUf7AnOxiCzETr0YqCkRklBaErZ_8IhbQ-A) [[Code]](https://github.com/DongHande/PT_propagation_then_training)|
+|Co-GCN|[[AAAI 2020] Co-GCN for Multi-View Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5901/5757)|
+
 
 
 ### Underexplored Directions
