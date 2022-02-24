@@ -76,6 +76,13 @@ The repository contains links primarily to conference and journal publications a
 |GraphMixup|[[arXiv 2021] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
 |ifMixup|[[arXiv 2021] Intrusion-Free Graph Mixup](https://arxiv.org/pdf/2110.09344.pdf)|
 
+#### Graph Consistency Training
+|Name|Paper|
+|---|---|
+|MH-Aug|[[NeurIPS 2021] Metropolis-Hastings Data Augmentation for Graph Neural Networks](https://proceedings.neurips.cc/paper/2021/file/9e7ba617ad9e69b39bd0c29335b79629-Paper.pdf)|
+|GRAND|[[NeurIPS 2020] Graph Random Neural Network for Semi-Supervised Learning on Graphs](https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf) [[Code]](https://github.com/THUDM/GRAND)|
+|NodeAug|[[KDD 2020] NodeAug: Semi-Supervised Node Classification with Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063)|
+
 
 ### Other Directions
 
