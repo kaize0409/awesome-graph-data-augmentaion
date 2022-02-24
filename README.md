@@ -72,7 +72,7 @@ The repository contains links primarily to conference and journal publications a
 |ifMixup|[[arXiv] Intrusion-Free Graph Mixup](https://arxiv.org/pdf/2110.09344.pdf)|
 |Graph Transplant|[[AAAI 2022] Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://arxiv.org/pdf/2111.05639.pdf)|
 
-### Underexplored Directions
+### Other Directions
 
 #### GraphDA for Graph Imbalanced Learning
 |Name|Paper|
