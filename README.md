@@ -17,12 +17,14 @@ The repository contains links primarily to conference and journal publications a
 |PTDNet|[[WSDM 2021] Learning to drop: Robust graph neural network via topological denoising](https://dl.acm.org/doi/pdf/10.1145/3437963.3441734?casa_token=p-KUZTPYFS0AAAAA:mYTX35RRO_p_EnC_ohXaz0dhk2uTs-cxVDqPD75GXuNvq_W-Uv2IA5yM3PTxp9JLAHiX4ycVaql2QQ) [[Code]](https://github.com/flyingdoog/PTDNet)|
 |BGCN|[[AAAI 2019] Bayesian graph convolutional neural networks for semi-supervised classification](https://ojs.aaai.org/index.php/AAAI/article/download/4531/4409) [[Code]](https://github.com/huawei-noah/BGCN)|
 |GEN|[[TheWebConf 2021] Graph Structure Estimation Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449952?casa_token=4b0qCTk088EAAAAA:sgU4Z5pS1W0dJ42SUo063Psw6XrNDTOor7EnX98HZwGeyj9_ZW_znUo-pb1S6I82_28EqBMd0wQo9g) [[Code]](https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks)|
+|GIB-G|[[ICLR 2020] Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)|
+|GIB-N|[[NeurIPS 2020] Graph Information Bottleneck](https://proceedings.neurips.cc/paper/2020/file/ebc2aa04e75e3caabda543a1317160c0-Paper.pdf) [[Code]](https://github.com/snap-stanford/GIB)|
 
 #### Optimal Feature Learning
 |Name|Paper|
 |---|---|
 |AirGNN|[[NeurIPS 2021] Graph Neural Networks with Adaptive Residual](https://proceedings.neurips.cc/paper/2021/file/50abc3e730e36b387ca8e02c26dc0a22-Paper.pdf) [[Code]](https://github.com/lxiaorui/AirGNN)|
-|FP|[[arXiv] On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features] |
+|FP|[[arXiv] On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features](https://arxiv.org/pdf/2111.12128.pdf)|
 |GCNMF|[[FGCS 2021] Graph convolutional networks for graphs containing missing features](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|
 
 
@@ -32,3 +34,15 @@ The repository contains links primarily to conference and journal publications a
 |Name|Paper|Code
 |---|---|---|
 |Meta-PN|[[AAAI 2022] Meta Propagation Networks for Few-shot Semi-supervised Graph Learning](https://arxiv.org/pdf/2112.09810.pdf)|[PyTorch](https://github.com/kaize0409/Meta-PN)
+
+### GraphDA for Graph Imbalanced Learning
+|Name|Paper|
+|---|---|
+|GraphSMOTE|[[WSDM 2021] GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3437963.3441720?casa_token=Wf5mpNwPYBYAAAAA:JAHEAtk0C48YGn8MGiDQY2xr8NTg-tJIpi6PhAgWHOBa8_OeZ_0mEBRdm5C7XGlSc4TXWtenaVKEgA) [[Code]](https://github.com/TianxiangZhao/GraphSmote)|
+|ImGAGN|[[KDD 2021] ImGAGN: Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://dl.acm.org/doi/pdf/10.1145/3447548.3467334?casa_token=Ty8EPIVMU30AAAAA:_kNvYoQfWlOvM_sUEZCSpS-hC9bVEux7y0jkLxjwvRtOVSIiU8Cfq2RgeYgOEmZV8ELcBKlzgkHYTw) [[Code]](https://github.com/Leo-Q-316/ImGAGN)|
+|GraphMixup|[[arXiv] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
+|DR-GCN|[[IJCAI 2020] Multi-class imbalanced graph convolutional network learning](https://par.nsf.gov/servlets/purl/10199469)|
+
+### GraphDA for Learning on Heterophilic Graphs
+|Name|Paper|
+|---|---|
