@@ -50,6 +50,7 @@ The repository contains links primarily to conference and journal publications a
 |GraphCL|[[NeurIPS 2020] Graph contrastive learning with augmentations](https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf) [[Code]](https://github.com/Shen-Lab/GraphCL)|
 |GCA|[[TheWebConf 2021] Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=5M-ljIDkVKIAAAAA:rGnCn_5bwBtngfI-JN_gsJOCO9FbaOziPyQ8_jSzL6l4u5CNZsl0f7NhAMpZCNU8c3X4Ndq_6wbvgA) [[Code]](https://github.com/CRIPAC-DIG/GCA)|
 |CSSL|[[AAAI 2021] Contrastive self-supervised learning for graph classification](https://www.aaai.org/AAAI21Papers/AAAI-7017.ZengJ.pdf)|
+|ARIEL|[[TheWebConf 2022] Adversarial Graph Contrastive Learning with Information Regularization](https://arxiv.org/pdf/2202.06491.pdf)|
 
 #### Graph Self/Co-Training
 |Name|Paper|
