@@ -1,4 +1,4 @@
-## Graph Data Augmentation (GraphDA) for Deep Graph Learning
+# Graph Data Augmentation (GraphDA) for Deep Graph Learning
 The repository contains links primarily to conference and journal publications about **graph data augmentation for deep graph learning**. If you find this repository useful, please kindly cite the following paper:
 
 ```
@@ -10,36 +10,36 @@ The repository contains links primarily to conference and journal publications a
 }
 ```
 
-### GraphDA for Optimal Graph Learning
+## GraphDA for Optimal Graph Learning
 
-#### Optimal Structure Learning
+### Optimal Structure Learning
 |Name|Paper
 |---|---|
 |Gasoline|[[TheWebConf 2022] Graph Sanitation with Application to Node Classification](https://arxiv.org/pdf/2105.09384.pdf?ref=https://githubhelp.com) [[Code]](https://github.com/pricexu/GASOLINE)|
 |GEN|[[TheWebConf 2021] Graph Structure Estimation Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449952?casa_token=4b0qCTk088EAAAAA:sgU4Z5pS1W0dJ42SUo063Psw6XrNDTOor7EnX98HZwGeyj9_ZW_znUo-pb1S6I82_28EqBMd0wQo9g) [[Code]](https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks)|
 |PTDNet|[[WSDM 2021] Learning to drop: Robust graph neural network via topological denoising](https://dl.acm.org/doi/pdf/10.1145/3437963.3441734?casa_token=p-KUZTPYFS0AAAAA:mYTX35RRO_p_EnC_ohXaz0dhk2uTs-cxVDqPD75GXuNvq_W-Uv2IA5yM3PTxp9JLAHiX4ycVaql2QQ) [[Code]](https://github.com/flyingdoog/PTDNet)|
 |GAUG|[[AAAI 2021] Data Augmentation for Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf) [[Code]](https://github.com/zhao-tong/GAug)|
+|HGSL|[[AAAI 2021] Heterogeneous Graph Structure Learning for Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-3976.ZhaoJ.pdf) [[Code]](https://github.com/Andy-Border/HGSL)|
+|ESML|[[ICDE 2021] Edge Sparsification for Graphs via Meta-Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458885&casa_token=TBXQtrIXATsAAAAA:9XQxBEn9UKRP-iP_-SzY5OkDGJvOUs4WtYIn6MwznDV7LI5jIAgC3qzRWK64OwlkOBKuAt3YHHM)|
 |GIB-N|[[NeurIPS 2020] Graph Information Bottleneck](https://proceedings.neurips.cc/paper/2020/file/ebc2aa04e75e3caabda543a1317160c0-Paper.pdf) [[Code]](https://github.com/snap-stanford/GIB)|
 |IDGL|[[NeurIPS 2020] Iterative deep graph learning for graph neural networks: Better and robust node embeddings](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf) [[Code]](https://github.com/hugochan/IDGL)|
 |NeuralSparse|[[ICML 2020] Robust graph representation learning via neural sparsification](http://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf) |
 |Pro-GNN|[[KDD 2020] Graph structure learning for robust graph neural networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049) [[Code]](https://github.com/ChandlerBang/Pro-GNN)|
 |GIB-G|[[ICLR 2020] Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)|
 |AdaEdge|[[AAAI 2020] Measuring and relieving the over-smoothing problem for graph neural networks from the topological view](https://ojs.aaai.org/index.php/AAAI/article/download/5747/5603)|
+|DenSE|[[ICDM 2020] Learning Node Representations from Noisy Graph Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338405&casa_token=iSZkJT-8nZ4AAAAA:7IJV0NIJzER-E1EXVKc-AOYkrju7b1JL0yMbgVAfflT5nIKKMaTfo9oPS2VvICJEUE63Y1HPmgE&tag=1)|
+|VGCN|[[NeurIPS 2020] Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf) [[Code]](https://github.com/ebonilla/VGCN)|
+|GLNN|[[ICME 2020] Exploring structure-adaptive graph learning for robust semi-supervised classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726&casa_token=3wh5N07uxPsAAAAA:Rl6NUTj2cr0qwdK6WL3WFx9Gk5g1wgpqkCbDyI332aeR_8-qThEMYs98VVuhtljGsjIYfPag5bw)|
+|GNN-Guard|[[NeurIPS 2020] Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf) [[Code]](https://github.com/mims-harvard/GNNGuard)|
+|Grale|[[KDD 2020] Grale: Designing Networks for Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403302)|
 |TO-GNN|[[IJCAI 2019] Topology Optimization based Graph Convolutional Network](https://www.ijcai.org/proceedings/2019/0563.pdf)|
 |LDS|[[ICML 2019] Learning discrete structures for graph neural networks](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf) [[Code]](https://github.com/lucfra/LDS-GNN)|
 |BGCN|[[AAAI 2019] Bayesian graph convolutional neural networks for semi-supervised classification](https://ojs.aaai.org/index.php/AAAI/article/download/4531/4409) [[Code]](https://github.com/huawei-noah/BGCN)|
 |PG-LEARN|[[CIKM 2018] A Quest for Structure: Jointly Learning the Graph Structure and Semi-Supervised Classification](https://dl.acm.org/doi/pdf/10.1145/3269206.3271692) [[Code]](https://github.com/LingxiaoShawn/PG-Learn)|
-|GNN-Guard|[[NeurIPS 2020] Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf) [[Code]](https://github.com/mims-harvard/GNNGuard)|
-|Grale|[[KDD 2020] Grale: Designing Networks for Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403302)|
-|HGSL|[[AAAI 2021] Heterogeneous Graph Structure Learning for Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-3976.ZhaoJ.pdf) [[Code]](https://github.com/Andy-Border/HGSL)|
 |DGM|[[arXiv] Differentiable Graph Module (DGM) for Graph Convolutional Networks](https://arxiv.org/pdf/2002.04999.pdf)|
-|DenSE|[[ICDM 2020] Learning Node Representations from Noisy Graph Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338405&casa_token=iSZkJT-8nZ4AAAAA:7IJV0NIJzER-E1EXVKc-AOYkrju7b1JL0yMbgVAfflT5nIKKMaTfo9oPS2VvICJEUE63Y1HPmgE&tag=1)|
-|VGCN|[[NeurIPS 2020] Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf) [[Code]](https://github.com/ebonilla/VGCN)|
-|GLNN|[[ICME 2020] Exploring structure-adaptive graph learning for robust semi-supervised classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726&casa_token=3wh5N07uxPsAAAAA:Rl6NUTj2cr0qwdK6WL3WFx9Gk5g1wgpqkCbDyI332aeR_8-qThEMYs98VVuhtljGsjIYfPag5bw)|
-|ESML|[[ICDE 2021] Edge Sparsification for Graphs via Meta-Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458885&casa_token=TBXQtrIXATsAAAAA:9XQxBEn9UKRP-iP_-SzY5OkDGJvOUs4WtYIn6MwznDV7LI5jIAgC3qzRWK64OwlkOBKuAt3YHHM)|
 
 
-#### Optimal Feature Learning
+### Optimal Feature Learning
 |Name|Paper|
 |---|---|
 |AirGNN|[[NeurIPS 2021] Graph Neural Networks with Adaptive Residual](https://proceedings.neurips.cc/paper/2021/file/50abc3e730e36b387ca8e02c26dc0a22-Paper.pdf) [[Code]](https://github.com/lxiaorui/AirGNN)|
@@ -47,9 +47,9 @@ The repository contains links primarily to conference and journal publications a
 |GCNMF|[[FGCS 2021] Graph convolutional networks for graphs containing missing features](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|
 
 
-### GraphDA for Low-resource Graph Learning
+## GraphDA for Low-resource Graph Learning
 
-#### Graph Self-Supervised Learning
+### Graph Self-Supervised Learning
 |Name|Paper
 |---|---|
 |S^3-CL|[[arXiv 2022] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
@@ -65,7 +65,7 @@ The repository contains links primarily to conference and journal publications a
 
 
 
-#### Graph Self/Co-Training
+### Graph Self/Co-Training
 |Name|Paper|
 |---|---|
 |Meta-PN|[[AAAI 2022] Meta Propagation Networks for Graph Few-shot Semi-supervised Learning](https://arxiv.org/pdf/2112.09810.pdf) [[Code]](https://github.com/kaize0409/Meta-PN)
@@ -76,7 +76,7 @@ The repository contains links primarily to conference and journal publications a
 |Co-GCN|[[AAAI 2020] Co-GCN for Multi-View Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5901/5757)|
 |ST-GCNs|[[AAAI 2018] Deeper insights into graph convolutional networks for semi-supervised learning](http://www4.comp.polyu.edu.hk/~csxmwu/papers/AAAI-2018-GCN.pdf) [[Code]](https://github.com/liqimai/gcn/tree/AAAI-18/)|
 
-#### Graph Interpolation
+### Graph Interpolation
 |Name|Paper|
 |---|---|
 |Graph Transplant|[[AAAI 2022] Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://arxiv.org/pdf/2111.05639.pdf)|
@@ -85,14 +85,14 @@ The repository contains links primarily to conference and journal publications a
 |GraphMixup|[[arXiv 2021] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
 |ifMixup|[[arXiv 2021] Intrusion-Free Graph Mixup](https://arxiv.org/pdf/2110.09344.pdf)|
 
-#### Graph Consistency Training
+### Graph Consistency Training
 |Name|Paper|
 |---|---|
 |MH-Aug|[[NeurIPS 2021] Metropolis-Hastings Data Augmentation for Graph Neural Networks](https://proceedings.neurips.cc/paper/2021/file/9e7ba617ad9e69b39bd0c29335b79629-Paper.pdf)|
 |GRAND|[[NeurIPS 2020] Graph Random Neural Network for Semi-Supervised Learning on Graphs](https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf) [[Code]](https://github.com/THUDM/GRAND)|
 |NodeAug|[[KDD 2020] NodeAug: Semi-Supervised Node Classification with Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063)|
 
-### Adversarial Training on Graphs
+## Adversarial Training on Graphs
 |Name|Paper|
 |---|---|
 |FLAG|[[arXiv] Flag: Adversarial data augmentation for graph neural networks](https://arxiv.org/pdf/2010.09891.pdf)|
@@ -102,9 +102,9 @@ The repository contains links primarily to conference and journal publications a
 
 More works on **adversarial attack and defense on graphs** can be found in this [survey](https://arxiv.org/pdf/1812.10528.pdf).
 
-### Other Directions
+## Other Directions
 
-#### GraphDA for Graph Imbalanced Learning
+### GraphDA for Graph Imbalanced Learning
 |Name|Paper|
 |---|---|
 |GraphSMOTE|[[WSDM 2021] GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3437963.3441720?casa_token=Wf5mpNwPYBYAAAAA:JAHEAtk0C48YGn8MGiDQY2xr8NTg-tJIpi6PhAgWHOBa8_OeZ_0mEBRdm5C7XGlSc4TXWtenaVKEgA) [[Code]](https://github.com/TianxiangZhao/GraphSmote)|
@@ -112,7 +112,7 @@ More works on **adversarial attack and defense on graphs** can be found in this 
 |GraphMixup|[[arXiv 2021] GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)|
 |DR-GCN|[[IJCAI 2020] Multi-class imbalanced graph convolutional network learning](https://par.nsf.gov/servlets/purl/10199469)|
 
-#### GraphDA for Learning on Heterophilic Graphs
+### GraphDA for Learning on Heterophilic Graphs
 |Name|Paper|
 |---|---|
 |WRGAT|[[KDD 2021] Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://dl.acm.org/doi/pdf/10.1145/3447548.3467373) [[Code]](https://github.com/susheels/gnns-and-local-assortativity)|
