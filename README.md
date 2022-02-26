@@ -1,4 +1,6 @@
 # Graph Data Augmentation (GraphDA) for Deep Graph Learning
+![Stars](https://img.shields.io/github/stars/kaize0409/awesome-graph-data-augmentaion?color=blue) ![Forks](https://img.shields.io/github/forks/kaize0409/awesome-graph-data-augmentaion?color=blue&label=Fork)
+
 The repository contains links primarily to conference and journal publications about **graph data augmentation for deep graph learning**. If you find this repository useful, please kindly cite the following paper:
 
 ```
