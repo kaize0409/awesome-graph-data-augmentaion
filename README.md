@@ -12,6 +12,7 @@ The repository contains links primarily to conference and journal publications a
   year={2022}
 }
 ```
+You are encouraged to be a contributor of this repo!
 
 ## Roadmaps
 - [GraphDA for Optimal Graph Learning](#GraphDA-for-Optimal-Graph-Learning)
