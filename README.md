@@ -12,6 +12,8 @@ The repository contains links primarily to conference and journal publications a
 
 ## Roadmaps
 - [GraphDA for Optimal Graph Learning](#GraphDA-for-Optimal-Graph-Learning)
+  - [Optimal Structure Learning](#Optimal-Structure-Learning)
+  - [Optimal Feature Learning](#Optimal-Feature-Learning)
 
 ## GraphDA for Optimal Graph Learning
 
