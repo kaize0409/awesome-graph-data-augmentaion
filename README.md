@@ -10,7 +10,8 @@ The repository contains links primarily to conference and journal publications a
 }
 ```
 
-## GraphDA for Optimal Graph Learning
+
+## [GraphDA for Optimal Graph Learning](#GraphDA-for-Optimal-Graph-Learning)
 
 ### Optimal Structure Learning
 |Name|Paper
