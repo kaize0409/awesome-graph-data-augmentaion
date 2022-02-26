@@ -92,6 +92,15 @@ The repository contains links primarily to conference and journal publications a
 |GRAND|[[NeurIPS 2020] Graph Random Neural Network for Semi-Supervised Learning on Graphs](https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf) [[Code]](https://github.com/THUDM/GRAND)|
 |NodeAug|[[KDD 2020] NodeAug: Semi-Supervised Node Classification with Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063)|
 
+### Adversarial Training on Graphs
+|Name|Paper|
+|---|---|
+|FLAG|[[arXiv] Flag: Adversarial data augmentation for graph neural networks](https://arxiv.org/pdf/2010.09891.pdf)|
+|BVAT|[[arXiv] Batch virtual adversarial training for graph convolutional networks](https://arxiv.org/pdf/1902.09192.pdf)|
+|GraphAT|[[TKDE 2019] Graph adversarial training: Dynamically regularizing based on graph structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8924766&casa_token=hBUgxc-C6B8AAAAA:-p98b_oAub0Pno9bVP5uq9jOI8on3F0XvZAU2zi6LUnzfaaE9_PcYHPnpAv7pSURqm9CzEHaAJ4) [[Code]](https://github.com/fulifeng/GraphAT)|
+|GCNVAT|[[PRCV 2019] Virtual adversarial training on graph convolutional networks in node classification](https://arxiv.org/pdf/1902.11045.pdf)|
+
+More works on **adversarial attack and defense on graphs** can be found in this [survey](https://arxiv.org/pdf/1812.10528.pdf).
 
 ### Other Directions
 
