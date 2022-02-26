@@ -28,6 +28,15 @@ The repository contains links primarily to conference and journal publications a
 |TO-GNN|[[IJCAI 2019] Topology Optimization based Graph Convolutional Network](https://www.ijcai.org/proceedings/2019/0563.pdf)|
 |LDS|[[ICML 2019] Learning discrete structures for graph neural networks](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf) [[Code]](https://github.com/lucfra/LDS-GNN)|
 |BGCN|[[AAAI 2019] Bayesian graph convolutional neural networks for semi-supervised classification](https://ojs.aaai.org/index.php/AAAI/article/download/4531/4409) [[Code]](https://github.com/huawei-noah/BGCN)|
+|PG-LEARN|[[CIKM 2018] A Quest for Structure: Jointly Learning the Graph Structure and Semi-Supervised Classification](https://dl.acm.org/doi/pdf/10.1145/3269206.3271692) [[Code]](https://github.com/LingxiaoShawn/PG-Learn)|
+|GNN-Guard|[[NeurIPS 2020] Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf) [[Code]](https://github.com/mims-harvard/GNNGuard)|
+|Grale|[[KDD 2020] Grale: Designing Networks for Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403302)|
+|HGSL|[[AAAI 2021] Heterogeneous Graph Structure Learning for Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-3976.ZhaoJ.pdf) [[Code]](https://github.com/Andy-Border/HGSL)|
+|DGM|[[arXiv] Differentiable Graph Module (DGM) for Graph Convolutional Networks](https://arxiv.org/pdf/2002.04999.pdf)|
+|DenSE|[[ICDM 2020] Learning Node Representations from Noisy Graph Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338405&casa_token=iSZkJT-8nZ4AAAAA:7IJV0NIJzER-E1EXVKc-AOYkrju7b1JL0yMbgVAfflT5nIKKMaTfo9oPS2VvICJEUE63Y1HPmgE&tag=1)|
+|VGCN|[[NeurIPS 2020] Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf) [[Code]](https://github.com/ebonilla/VGCN)|
+|GLNN|[[ICME 2020] Exploring structure-adaptive graph learning for robust semi-supervised classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726&casa_token=3wh5N07uxPsAAAAA:Rl6NUTj2cr0qwdK6WL3WFx9Gk5g1wgpqkCbDyI332aeR_8-qThEMYs98VVuhtljGsjIYfPag5bw)|
+|ESML|[[ICDE 2021] Edge Sparsification for Graphs via Meta-Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9458885&casa_token=TBXQtrIXATsAAAAA:9XQxBEn9UKRP-iP_-SzY5OkDGJvOUs4WtYIn6MwznDV7LI5jIAgC3qzRWK64OwlkOBKuAt3YHHM)|
 
 
 #### Optimal Feature Learning
@@ -43,7 +52,7 @@ The repository contains links primarily to conference and journal publications a
 #### Graph Self-Supervised Learning
 |Name|Paper
 |---|---|
-|S^3-CL|[[Arxiv 2022] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
+|S^3-CL|[[arXiv 2022] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
 |ARIEL|[[TheWebConf 2022] Adversarial Graph Contrastive Learning with Information Regularization](https://arxiv.org/pdf/2202.06491.pdf)|
 |GCA|[[TheWebConf 2021] Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=5M-ljIDkVKIAAAAA:rGnCn_5bwBtngfI-JN_gsJOCO9FbaOziPyQ8_jSzL6l4u5CNZsl0f7NhAMpZCNU8c3X4Ndq_6wbvgA) [[Code]](https://github.com/CRIPAC-DIG/GCA)|
 |CSSL|[[AAAI 2021] Contrastive self-supervised learning for graph classification](https://www.aaai.org/AAAI21Papers/AAAI-7017.ZengJ.pdf)|
