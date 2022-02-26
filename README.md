@@ -14,6 +14,15 @@ The repository contains links primarily to conference and journal publications a
 - [GraphDA for Optimal Graph Learning](#GraphDA-for-Optimal-Graph-Learning)
   - [Optimal Structure Learning](#Optimal-Structure-Learning)
   - [Optimal Feature Learning](#Optimal-Feature-Learning)
+- [GraphDA for Low-resource Graph Learning](#GraphDA-for-Low-resource-Graph-Learning)
+  - [Graph Self-Supervised Learning](#Graph-Self-Supervised-Learning)
+  - [Graph Self/Co-Training](#Graph-Self/Co-Training)
+  - [Graph Interpolation](#Graph-Interpolation)
+  - [Graph Consistency Training](#Graph-Consistency-Training)
+- [Adversarial Training on Graphs](#Adversarial-Training-on-Graphs)
+- [Other Directions](#Other-Directions)
+  - [GraphDA for Graph Imbalanced Learning](#GraphDA-for-Graph-Imbalanced-Learning)
+  - [GraphDA for Learning on Heterophilic Graphs](#GraphDA-for-Learning-on-Heterophilic-Graphs)
 
 ## GraphDA for Optimal Graph Learning
 
