@@ -14,9 +14,9 @@ The repository contains links primarily to conference and journal publications a
 - [GraphDA for Optimal Graph Learning](#GraphDA-for-Optimal-Graph-Learning)
   - [Optimal Structure Learning](#Optimal-Structure-Learning)
   - [Optimal Feature Learning](#Optimal-Feature-Learning)
-- [GraphDA for Low-resource Graph Learning](#GraphDA-for-Low-resource-Graph-Learning)
+- [GraphDA for Low-Resource Graph Learning](#GraphDA-for-Low-resource-Graph-Learning)
   - [Graph Self-Supervised Learning](#Graph-Self-Supervised-Learning)
-  - [Graph Self/Co-Training](#Graph-Self/Co-Training)
+  - [Graph Self/Co-Training](#Graph-Self-Co-Training)
   - [Graph Interpolation](#Graph-Interpolation)
   - [Graph Consistency Training](#Graph-Consistency-Training)
 - [Adversarial Training on Graphs](#Adversarial-Training-on-Graphs)
@@ -61,7 +61,7 @@ The repository contains links primarily to conference and journal publications a
 |GCNMF|[[FGCS 2021] Graph convolutional networks for graphs containing missing features](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|
 
 
-## GraphDA for Low-resource Graph Learning
+## GraphDA for Low-Resource Graph Learning
 
 ### Graph Self-Supervised Learning
 |Name|Paper
