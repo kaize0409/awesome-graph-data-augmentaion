@@ -25,6 +25,7 @@ You are encouraged to be a contributor of this repo!
   - [Graph Consistency Training](#Graph-Consistency-Training)
 - [Adversarial Training on Graphs](#Adversarial-Training-on-Graphs)
 - [Other Directions](#Other-Directions)
+  - [GraphDA for Robust Graph Learning](#GraphDA-for-Robust-Graph-Learning)
   - [GraphDA for Graph Imbalanced Learning](#GraphDA-for-Graph-Imbalanced-Learning)
   - [GraphDA for Learning on Heterophilic Graphs](#GraphDA-for-Learning-on-Heterophilic-Graphs)
 
