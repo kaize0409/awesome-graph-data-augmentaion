@@ -46,9 +46,6 @@ You are encouraged to be a contributor of this repo!
 |GIB-G|[[ICLR 2020] Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)|
 |AdaEdge|[[AAAI 2020] Measuring and relieving the over-smoothing problem for graph neural networks from the topological view](https://ojs.aaai.org/index.php/AAAI/article/download/5747/5603)|
 |DenSE|[[ICDM 2020] Learning Node Representations from Noisy Graph Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338405&casa_token=iSZkJT-8nZ4AAAAA:7IJV0NIJzER-E1EXVKc-AOYkrju7b1JL0yMbgVAfflT5nIKKMaTfo9oPS2VvICJEUE63Y1HPmgE&tag=1)|
-|VGCN|[[NeurIPS 2020] Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf) [[Code]](https://github.com/ebonilla/VGCN)|
-|GLNN|[[ICME 2020] Exploring structure-adaptive graph learning for robust semi-supervised classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726&casa_token=3wh5N07uxPsAAAAA:Rl6NUTj2cr0qwdK6WL3WFx9Gk5g1wgpqkCbDyI332aeR_8-qThEMYs98VVuhtljGsjIYfPag5bw)|
-|GNN-Guard|[[NeurIPS 2020] Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf) [[Code]](https://github.com/mims-harvard/GNNGuard)|
 |Grale|[[KDD 2020] Grale: Designing Networks for Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403302)|
 |TO-GNN|[[IJCAI 2019] Topology Optimization based Graph Convolutional Network](https://www.ijcai.org/proceedings/2019/0563.pdf)|
 |LDS|[[ICML 2019] Learning discrete structures for graph neural networks](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf) [[Code]](https://github.com/lucfra/LDS-GNN)|
@@ -110,9 +107,17 @@ You are encouraged to be a contributor of this repo!
 |GRAND|[[NeurIPS 2020] Graph Random Neural Network for Semi-Supervised Learning on Graphs](https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf) [[Code]](https://github.com/THUDM/GRAND)|
 |NodeAug|[[KDD 2020] NodeAug: Semi-Supervised Node Classification with Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063)|
 
-## Adversarial Training on Graphs
+
+
+
+## Other Directions
+
+### GraphDA for Robust Graph Learning
 |Name|Paper|
 |---|---|
+|VGCN|[[NeurIPS 2020] Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://proceedings.neurips.cc/paper/2020/file/d882050bb9eeba930974f596931be527-Paper.pdf) [[Code]](https://github.com/ebonilla/VGCN)|
+|GLNN|[[ICME 2020] Exploring structure-adaptive graph learning for robust semi-supervised classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726&casa_token=3wh5N07uxPsAAAAA:Rl6NUTj2cr0qwdK6WL3WFx9Gk5g1wgpqkCbDyI332aeR_8-qThEMYs98VVuhtljGsjIYfPag5bw)|
+|GNN-Guard|[[NeurIPS 2020] Gnnguard: Defending graph neural networks against adversarial attacks](https://proceedings.neurips.cc/paper/2020/file/690d83983a63aa1818423fd6edd3bfdb-Paper.pdf) [[Code]](https://github.com/mims-harvard/GNNGuard)|
 |FLAG|[[arXiv] Flag: Adversarial data augmentation for graph neural networks](https://arxiv.org/pdf/2010.09891.pdf)|
 |BVAT|[[arXiv] Batch virtual adversarial training for graph convolutional networks](https://arxiv.org/pdf/1902.09192.pdf)|
 |GraphAT|[[TKDE 2019] Graph adversarial training: Dynamically regularizing based on graph structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8924766&casa_token=hBUgxc-C6B8AAAAA:-p98b_oAub0Pno9bVP5uq9jOI8on3F0XvZAU2zi6LUnzfaaE9_PcYHPnpAv7pSURqm9CzEHaAJ4) [[Code]](https://github.com/fulifeng/GraphAT)|
@@ -120,7 +125,6 @@ You are encouraged to be a contributor of this repo!
 
 More works on **adversarial attack and defense on graphs** can be found in this [survey](https://arxiv.org/pdf/1812.10528.pdf).
 
-## Other Directions
 
 ### GraphDA for Graph Imbalanced Learning
 |Name|Paper|
