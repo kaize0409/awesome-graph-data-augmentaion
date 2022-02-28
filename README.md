@@ -2,7 +2,7 @@
 ![Stars](https://img.shields.io/github/stars/kaize0409/awesome-graph-data-augmentaion?color=yellow) ![Forks](https://img.shields.io/github/forks/kaize0409/awesome-graph-data-augmentaion?color=green)
 ![Last commit](https://img.shields.io/github/last-commit/kaize0409/awesome-graph-data-augmentaion)
 
-The repository contains links primarily to conference and journal publications about **graph data augmentation for deep graph learning**. If you find this repository useful, please kindly cite the following paper:
+The repository contains links primarily to conference and journal publications about **graph data augmentation for deep graph learning**. If you find this repository useful, please kindly cite the following paper: [Data Augmentation for Deep Graph Learning: A Survey] (https://arxiv.org/pdf/2202.08235.pdf)
 
 ```
 @article{ding2022data,
