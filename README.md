@@ -69,10 +69,9 @@ You are highly encouraged to contribute to this repo!
 |---|---|
 |S^3-CL|[[arXiv 2022] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
 |ARIEL|[[TheWebConf 2022] Adversarial Graph Contrastive Learning with Information Regularization](https://arxiv.org/pdf/2202.06491.pdf)|
-|AD-GCL|[[NeurIPS 2021] Adversarial Graph Augmentation to Improve Graph Contrastive Learning
-](https://arxiv.org/pdf/2106.05819.pdf) [[Code]](https://github.com/susheels/adgcl)|
+|AD-GCL|[[NeurIPS 2021] Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf) [[Code]](https://github.com/susheels/adgcl)|
 |GCA|[[TheWebConf 2021] Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=5M-ljIDkVKIAAAAA:rGnCn_5bwBtngfI-JN_gsJOCO9FbaOziPyQ8_jSzL6l4u5CNZsl0f7NhAMpZCNU8c3X4Ndq_6wbvgA) [[Code]](https://github.com/CRIPAC-DIG/GCA)|
-|MERIT|[[IJCAI 2021] Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning](https://www.ijcai.org/proceedings/2021/0204.pdf) [[Code]](https://github.com/GRAND-Lab/MERIT|
+|MERIT|[[IJCAI 2021] Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning](https://www.ijcai.org/proceedings/2021/0204.pdf)  [[Code]](https://github.com/GRAND-Lab/MERIT)|
 |CSSL|[[AAAI 2021] Contrastive self-supervised learning for graph classification](https://www.aaai.org/AAAI21Papers/AAAI-7017.ZengJ.pdf)|
 |GraphCL|[[NeurIPS 2020] Graph contrastive learning with augmentations](https://proceedings.neurips.cc/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf) [[Code]](https://github.com/Shen-Lab/GraphCL)|
 |GPT-GNN|[[KDD 2020] Gpt-gnn: Generative pre-training of graph neural networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237?ref=https://githubhelp.com) [[Code]](https://github.com/acbull/GPT-GNN)|
