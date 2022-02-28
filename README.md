@@ -33,7 +33,7 @@ You are highly encouraged to contribute to this repo!
 ### Optimal Structure Learning
 |Name|Paper
 |---|---|
-|Gasoline|**[TheWebConf 2022] Graph Sanitation with Application to Node Classification**(https://arxiv.org/pdf/2105.09384.pdf?ref=https://githubhelp.com) [[Code]](https://github.com/pricexu/GASOLINE)|
+|Gasoline|[[TheWebConf 2022] Graph Sanitation with Application to Node Classification](https://arxiv.org/pdf/2105.09384.pdf?ref=https://githubhelp.com) [[Code]](https://github.com/pricexu/GASOLINE)|
 |GEN|[[TheWebConf 2021] Graph Structure Estimation Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449952?casa_token=4b0qCTk088EAAAAA:sgU4Z5pS1W0dJ42SUo063Psw6XrNDTOor7EnX98HZwGeyj9_ZW_znUo-pb1S6I82_28EqBMd0wQo9g) [[Code]](https://github.com/BUPT-GAMMA/Graph-Structure-Estimation-Neural-Networks)|
 |PTDNet|[[WSDM 2021] Learning to drop: Robust graph neural network via topological denoising](https://dl.acm.org/doi/pdf/10.1145/3437963.3441734?casa_token=p-KUZTPYFS0AAAAA:mYTX35RRO_p_EnC_ohXaz0dhk2uTs-cxVDqPD75GXuNvq_W-Uv2IA5yM3PTxp9JLAHiX4ycVaql2QQ) [[Code]](https://github.com/flyingdoog/PTDNet)|
 |GAUG|[[AAAI 2021] Data Augmentation for Graph Neural Networks](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf) [[Code]](https://github.com/zhao-tong/GAug)|
