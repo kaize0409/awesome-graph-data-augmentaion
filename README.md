@@ -68,6 +68,7 @@ We will keep updating the paper list and you are highly encouraged to contribute
 |Name|Paper
 |---|---|
 |S^3-CL|[[arXiv 2022] Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning](https://arxiv.org/pdf/2202.08480.pdf)|
+|BGRL|[[ICLR 2022] Large-Scale Representation Learning on Graphs via Bootstrapping](https://arxiv.org/pdf/2102.06514.pdf) [[Code]](https://github.com/Namkyeong/BGRL_Pytorch)|
 |ARIEL|[[TheWebConf 2022] Adversarial Graph Contrastive Learning with Information Regularization](https://arxiv.org/pdf/2202.06491.pdf)|
 |AD-GCL|[[NeurIPS 2021] Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf) [[Code]](https://github.com/susheels/adgcl)|
 |GCA|[[TheWebConf 2021] Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=5M-ljIDkVKIAAAAA:rGnCn_5bwBtngfI-JN_gsJOCO9FbaOziPyQ8_jSzL6l4u5CNZsl0f7NhAMpZCNU8c3X4Ndq_6wbvgA) [[Code]](https://github.com/CRIPAC-DIG/GCA)|
