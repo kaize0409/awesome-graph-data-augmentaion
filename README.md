@@ -144,3 +144,6 @@ More works on **adversarial attack and defense on graphs** can be found in this 
 |SGATs|[[TKDE 2021] Sparse graph attention networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9399811&casa_token=7dOFWpPz370AAAAA:jq9qmU85ggjBEsl2J4KqTG4fgU1SJN2_MOSqG9EMs-EValyhoqZjJz7SIR8eh0KUq4NYjxNiCR0&tag=1) [[Code]](https://github.com/Yangyeeee/SGAT)|
 |FAGCN|[[AAAI 2021] Beyond Low-frequency Information in Graph Convolutional Networks](https://www.aaai.org/AAAI21Papers/AAAI-10091.BoD.pdf) [[Code]](http://www.shichuan.org/dataset/FAGCN_27.zip)|
 |Geom-GCN|[[ICLR 2019] Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS) [[Code]](https://github.com/graphdml-uiuc-jlu/geom-gcn)|
+
+## Acknowledgement
+This page is contributed and maintained by Kaize Ding (kaize.ding@asu.edu), Zhe Xu (zhexu3@illinois.edu).
